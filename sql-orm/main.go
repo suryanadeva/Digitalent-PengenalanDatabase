@@ -49,7 +49,7 @@ func main() {
 	// }, db)
 	//database.GetCustomers(db)
 	database.DeleteCustomer(2, db)
-	//database.UpdateCustomer(database.CustomerORM{PhoneNumber: "081231456"}, 1, db)
+	//database.UpdateCustomer(database.CustomerORM{PhoneNumber: "0812314"}, 1, db)
 
 	// database.InsertAccount(database.AccountORM{
 	// 	Balance:         10000,
