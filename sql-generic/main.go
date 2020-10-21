@@ -38,7 +38,7 @@ func main() {
 	// }, db)
 
 	//database.GetCustomers(db)
-	//database.UpdateCustomer(20, 1, db)
+	//database.UpdateCustomer(35, 1, db)
 	database.DeleteCustomer(1, db)
 }
 
